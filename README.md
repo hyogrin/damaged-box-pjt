@@ -1,4 +1,4 @@
-# Amazon Bedrock Titan Image Generator 모델을 활용한 데이터셋 생성으로 Amazon Rekognition / Amazon Lookout for Vision 으로 도메인에 특화된 객체 찾기
+# Amazon Bedrock Titan Image Generator 모델을 활용한 Amazon Rekognition 데이터셋 생성으로 도메인 특화된 객체 찾기
 
 ---
 
