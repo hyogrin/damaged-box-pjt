@@ -1,4 +1,4 @@
-# damaged-box-pjt - Amazon Bedrock Titan Image Generator 모델을 활용한 Amazon Rekognition 커스텀 라벨링으로 도메인에 특화된 객체 찾기
+# Amazon Bedrock Titan Image Generator 모델을 활용한 데이터셋 생성으로 Amazon Rekognition / Amazon Lookout for Vision 으로 도메인에 특화된 객체 찾기
 
 ---
 
@@ -26,7 +26,7 @@ Amazon Bedrock에 pre-built된 Titan Image Generator 모델을 활용하면 학�
  - Inference an image by created model
  
 #### BENEFIT
-Data Scientist가 없는 서비스 개발팀에서도 쉽고 빠르게 생성형 AI기술을 활용하여 정확도 높고, 특정 도메인에 특화된 객체인식 서비스를 개발할 수 있습니다.  
+Data Scientist가 없는 서비스 개발팀에서도 쉽고 빠르게 생성형 AI기술을 활용하여 정확도 높고, 특정 도메인에 특화된 객체인식 서비스를 개발할 수 있습니다.  (Amazon Rekognition, Amazon Lookout for vision 학습 시 모두 활용 가능) 
 
  
 #### DATASETS
